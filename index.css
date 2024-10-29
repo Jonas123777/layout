@@ -1,0 +1,58 @@
+.inicio {
+    width: 1502px;
+    height: 100px;
+    background-color: rgb(75, 75, 254);
+    margin-top: 0;
+    position: sticky;
+}
+
+.gris {
+    width: 760px;
+    height: 500px;
+    background-color: rgb(148, 147, 147);
+    margin-top: 10px;
+}
+
+.padre {
+    width: 760px;
+    height: 500px;
+    background-color: blue;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.hijo1 {
+    width: 730px;
+    height: 45%;
+    background-color: aqua;
+    margin-top: 20px;
+    margin-left: 7px;
+
+}
+
+.hijo2 {
+    width: 730px;
+    height: 45%;
+    background-color: aqua;
+    margin-top: 10px;
+    margin-left: 7px;
+}
+
+.ca {
+    display: flex;
+    position: static;
+}
+
+.rojo {
+    width: 1502px;
+    height: 400px;
+    background-color: brown;
+    margin-top: 10px;
+}
+
+.final {
+    width: 1502px;
+    height: 100px;
+    background-color: rgb(75, 75, 254);
+    margin-top: 10px;
+}
